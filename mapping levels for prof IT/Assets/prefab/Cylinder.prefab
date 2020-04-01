@@ -97,7 +97,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13fd908833b26ed4fb2923976add8ca0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  characterController: {fileID: 0}
   speed: 6
   jumpSpeed: 8
   gravity: 20
